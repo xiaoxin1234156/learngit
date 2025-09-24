@@ -5,3 +5,5 @@ test1
 test2
 
 origin test2
+
+git diff test
